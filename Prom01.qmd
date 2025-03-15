@@ -1,0 +1,46 @@
+---
+title: "Métodos Matemáticos"
+subtitle: "Maestría en Economía Uninorte"
+author: "Carlos Andrés Yanes"
+date: "2025-02-28"
+format:
+    pdf: default
+    html: 
+      self-contained: true
+      grid: 
+        margin-width: 350px
+execute: 
+  warning: false
+reference-location: margin
+citation-location: margin
+jupyter: python3
+---
+
+# Preambulo
+
+La economía matemática es una **disciplina** que combina los principios económicos con las herramientas matemáticas para analizar y resolver problemas complejos. En el nivel de maestría, esta área de estudio se enriquece con investigaciones avanzadas, *modelos teóricos* y aplicaciones prácticas que permiten a los estudiantes y profesionales comprender mejor los fenómenos económicos y tomar decisiones informadas.
+
+Este **curso** reúne algunas de las mejores piezas y recursos en economía matemática, seleccionados por su relevancia, rigor académico y contribución al campo. Desde métodos de análisis matemáticos para economistas, siguiendo con los modelos de optimización, algunos principios de la teoría de juegos hasta análisis de datos pero en el formato de la elaboración de preguntas de investigación, cada sección ofrece una visión profunda y detallada de los conceptos fundamentales y las últimas <span style="color:red"> innovaciones en la disciplina</span>.
+
+A través de este recorrido, los estudiantes podrán explorar cómo las matemáticas se aplican para abordar cuestiones económicas críticas, desarrollar habilidades analíticas avanzadas y contribuir al desarrollo de políticas económicas efectivas. Este compendio no solo es una herramienta valiosa para los estudiantes de maestría, sino también para investigadores y profesionales que buscan mantenerse a la vanguardia del conocimiento en economía matemática.
+
+## Qué tiene que conocer/saber?
+
+Se requieren varias habilidades *clave*. Es fundamental tener una sólida base en matemáticas, incluyendo cálculo, álgebra lineal y estadística. Además, es importante contar con habilidades analíticas y de resolución de problemas para poder interpretar y aplicar modelos económicos complejos. La capacidad de manejar software especializado en análisis de datos y econometría también es esencial. Finalmente, se valoran las habilidades de comunicación, tanto escrita como oral, para poder presentar y defender argumentos económicos de manera clara y efectiva.
+
+## Algunos simbolos
+
+Es bueno familiarizarse con **simbolos matemáticos** que permiten hacer una lectura mas simplificada de las cosas
+
+| Símbolo | Significado                     |
+|---------|---------------------------------|
+| $$[n]$$ | Los enteros $\{1,\dots, n\}$|
+| $$ \mathbb{N}, \mathbb{Z} \;y\; \mathbb{R}$$|Números naturales, Enteros y Reales|
+| $$\mathbb{R}_+$$ | No negatividad             |
+| $$|x|\; para \; x \in \mathbb{R}$$ | Valor absoluto de $x$                    |
+| $$\succ$$   | Preferencia sobre algo                        |
+| $$\forall$$ | Para todo                    |
+| $$a \vee b$$   | $Max \{a,b\}$                   |
+| 
+
+
